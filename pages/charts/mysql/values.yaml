@@ -2,6 +2,8 @@
 config:
   spring_datasource_username: root
 
+mysql_svc_name: mysql
+
 deployment:
   containerPort: 3306
 
